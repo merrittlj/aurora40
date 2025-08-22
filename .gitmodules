@@ -4,3 +4,6 @@
 [submodule "zmk"]
 	path = zmk
 	url = https://github.com/merrittlj/zmk-config-aurora40
+[submodule "case"]
+	path = case
+	url = https://github.com/merrittlj/aurora40-case
